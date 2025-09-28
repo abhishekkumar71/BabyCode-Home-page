@@ -6,23 +6,23 @@ This project was created as part of an assignment with a focus on **UI/UX qualit
 ---
 
 ## Live Demo
-[visit](https://baby-code-home-page.vercel.app/)
+[visit Now](https://baby-code-home-page.vercel.app/)
 ---
 
 ## Screenshots
 
 ### Desktop View
 
-###Home
+### Home
 ![Desktop Homepage](./public/screenshots/home.png)
 
-###Features
+### Features
 ![Features](./public/screenshots/features.png)
 
-##Testimonials
+### Testimonials
 ![Testimonials](./public/screenshots/testimonials.png)
 
-##Footer
+### Footer
 ![Footer](./public/screenshots/footer.png)
 
 ##
@@ -30,13 +30,13 @@ This project was created as part of an assignment with a focus on **UI/UX qualit
 ### Mobile View
 ![Mobile Homepage](./public/screenshots/mobile-home.png)
 
-###Features
+### Features
 ![Features](./public/screenshots/mobile-features.png)
 
-##Testimonials
+### Testimonials
 ![Testimonials](./public/screenshots/mobile-testimonials.png)
 
-##Footer
+### Footer
 ![Footer](./public/screenshots/mobile-footer.png)
 
 ---
