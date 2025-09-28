@@ -1,16 +1,67 @@
-# React + Vite
+# IELTS Institute Home Page (React JS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive home page for a fictional IELTS Institute built with **React JS** and styled using **CSS & Tailwind**.  
+This project was created as part of an assignment with a focus on **UI/UX quality**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+[visit](https://baby-code-home-page.vercel.app/)
+---
 
-## React Compiler
+## Screenshots
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Desktop View
 
-## Expanding the ESLint configuration
+###Home
+![Desktop Homepage](./public/screenshots/home.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###Features
+![Features](./public/screenshots/features.png)
+
+##Testimonials
+![Testimonials](./public/screenshots/testimonials.png)
+
+##Footer
+![Footer](./public/screenshots/footer.png)
+
+##
+
+### Mobile View
+![Mobile Homepage](./public/screenshots/mobile-home.png)
+
+###Features
+![Features](./public/screenshots/mobile-features.png)
+
+##Testimonials
+![Testimonials](./public/screenshots/mobile-testimonials.png)
+
+##Footer
+![Footer](./public/screenshots/mobile-footer.png)
+
+---
+
+## 🛠 Features
+- **Navbar** with logo and menu links  
+- **Hero section** with headline, subtext, CTA button, and banner image  
+- **Feature cards** (Speaking Practice, Mock Tests, AI Band Score, etc.)  
+- **Student testimonials** (2–3 reviews)  
+- **Footer** with links, contact info, and social icons  
+- **Responsive design** (works on phones and desktops)  
+
+---
+
+## ⚡ Setup Instructions
+If you want to run this locally:
+```bash
+# Clone the repo
+git clone https://github.com/your-username/ielts-institute-homepage.git
+
+# Navigate into folder
+cd ielts-institute-homepage
+
+# Install dependencies
+npm install
+
+# Start local dev server
+npm run dev
